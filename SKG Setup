@@ -1,1 +1,2 @@
 git clone --recurse-submodules https://github.com/Unity-Technologies/com.unity.services.samples
+https://github.com/Unity-Technologies/com.unity.services.samples.game-lobby.git
